@@ -347,7 +347,7 @@ class Player extends Human implements CommandSender, ChunkLoader, IPlayer{
 		}
 	}
 
-	public function getPlayer(){
+	public function getPlayer(){ //hahahaa
 		return $this;
 	}
 
