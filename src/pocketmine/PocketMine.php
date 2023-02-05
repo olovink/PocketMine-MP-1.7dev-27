@@ -14,7 +14,6 @@
  * (at your option) any later version.
  *
  * @author PocketMine Team
- * @link http://www.pocketmine.net/
  *
  *
 */
