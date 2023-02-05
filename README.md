@@ -1,5 +1,7 @@
 # [![PocketMine-MP](http://cdn.pocketmine.net/img/PocketMine-MP-h.png)](https://pmmp.io)
 
+# Deprecated core (official PocketMine-MP migration to https://github.com/pmmp/PocketMine-MP)
+
 __A highly customisable, open source server software for Minecraft: Pocket Edition written in PHP__
 
 ## Third-party Libraries/Protocols Used
