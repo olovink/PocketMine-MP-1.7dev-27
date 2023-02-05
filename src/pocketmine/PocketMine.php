@@ -81,6 +81,7 @@ namespace pocketmine {
 	const VERSION = "1.7dev";
 	const API_VERSION = "3.0.0-ALPHA7";
 	const CODENAME = "[REDACTED]";
+	const NAME = "PocketMine-MP";
 
 	/*
 	 * Startup code. Do not look at it, it may harm you.
