@@ -20,7 +20,7 @@ namespace raklib;
 abstract class RakLib{
 	public const VERSION = "0.12.0";
 
-	public const MIN_PHP_VERSION = "7.2.0";
+	public const MIN_PHP_VERSION = "7.2.0"; // upgrade to 8.2.0 pls
 
 	/**
 	 * Default vanilla Raknet protocol version that this library implements. Things using RakNet can override this
